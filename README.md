@@ -5,7 +5,7 @@
 Building fast, clean, and reliable web platforms end to end—from minimal accessible interfaces and multi-facet product catalogues to role-based authentication, protected media storage, technical SEO, and resilient cloud/Linux deployments.
 
 - **Portfolio:** [putra-hakim.vercel.app](https://putra-hakim.vercel.app)
-- **Software Studio:** [kims-code.vercel.app](https://kims-code.vercel.app)
+- **Kims Code:** [kims-code.vercel.app](https://kims-code.vercel.app)
 - **LinkedIn:** [linkedin.com/in/hadi-nurhakim](https://www.linkedin.com/in/hadi-nurhakim)
 - **Email:** [hadinurhakim.coding@gmail.com](mailto:hadinurhakim.coding@gmail.com)
 
